@@ -1,0 +1,136 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "Type": "Vitz",
+        "Brand": "Toyota",
+        "Model": "2019",
+        "Fuel": "Petrol",
+        "Seats": "5",
+        "Price": "1200",
+        "Description": "The Sunny compact sedan that offers a winning combination of affordability, practicality, and efficiency.",
+        "Img": "https://www.carimports.co.ke/stats_images/dyJ2O5ZnVGaLpjxto6Qn89ODGiQhtyr2muxhAWAC45.jpg",
+        "Booking_Status": "Available"
+      },
+      {
+        "id": 2,
+        "Type": "Sunny",
+        "Brand": "Nissan",
+        "Model": "2019",
+        "Fuel": "Petrol",
+        "Seats": "5",
+        "Price": "1200",
+        "Description": "The Vitz is known for its compact size, fuel efficiency, and practicality, making it a popular choice for urban driving and daily commuting",
+        "Img": "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_middle_east/vehicles/sunny/2020/grades/Sunny-SL.jpg",
+        "Booking_Status": "Available"
+      },
+      {
+        "id": 3,
+        "Type": "Camry",
+        "Brand": "Toyota",
+        "Model": "2019",
+        "Fuel": "Petrol",
+        "Seats": "5",
+        "Price": "1500",
+        "Description": "The Camry has gained a reputation for its reliability, comfort, and practicality, making it a favorite choice for families and daily commuters.",
+        "Img": "https://crdms.images.consumerreports.org/c_lfill,w_720,q_auto,f_auto/prod/cars/chrome/white/2019TOC020018_1280_07",
+        "Booking_Status": "Available"
+      },
+      {
+        "id": 4,
+        "Type": "Vanguard",
+        "Brand": "Toyota",
+        "Model": "2019",
+        "Fuel": "Petrol",
+        "Seats": "5",
+        "Price": "2000",
+        "Description": "The Vanguard offers a balance between a compact SUV and a larger mid-size SUV, catering to consumers who desired more space and comfort ",
+        "Img": "https://img.favcars.com/toyota/vanguard/photos_toyota_vanguard_2007_1_b.jpg",
+        "Booking_Status": "Available"
+      },
+      {
+        "id": 5,
+        "Type": "Noah",
+        "Brand": "Toyota",
+        "Model": "2019",
+        "Fuel": "Petrol",
+        "Seats": "7",
+        "Price": "2500",
+        "Description": "The  Noah is the epitome of practicality and versatility, designed to cater to the ever-evolving needs of today's large families ",
+        "Img": "https://global.toyota/pages/news/images/2022/01/13/1330/20220113_01_001_s.jpg",
+        "Booking_Status": "Available"
+      },
+      {
+        "id": 6,
+        "Type": "Serena",
+        "Brand": "Nissan",
+        "Model": "2019",
+        "Fuel": "Petrol",
+        "Seats": "7",
+        "Price": "3000",
+        "Description": "The Nissan Serena typically features a boxy and functional design, with sliding doors on both sides for easy access to the rear seats. It offers a large and tall body, providing ample headroom and space for passengers. It fuel-efficient for its size, making it suitable for long trips and family outings.",
+        "Img": "https://img.indianautosblog.com/2016/07/2016-Nissan-Serena-front-three-quarters-studio-image.jpg",
+        "Booking_Status": "Available"
+      },
+      {
+        "Type": "Demio",
+        "Brand": "Mazda",
+        "Model": "2019",
+        "Fuel": "Petrol",
+        "Seats": "5",
+        "Price": "1200",
+        "Description": "The Mazda Demio typically features a modern and stylish design, with sleek lines and a compact size.is designed to be fuel-efficient, making it a practical choice for daily commuting and city driving.",
+        "Img": "https://wallpapercave.com/wp/wp12259741.jpg",
+        "Booking_Status": "Available",
+        "id": 7
+      },
+      {
+        "Type": "Civic",
+        "Brand": "Honda",
+        "Model": "2019",
+        "Fuel": "Petrol",
+        "Seats": "5",
+        "Price": "1800",
+        "Description": "The Honda Civic is a compact car model. It typically features a contemporary and aerodynamic design, with clean lines and a stylish appearance.Inside, the Civic offers a well-designed and comfortable cabin",
+        "Img": "https://imagebee.org/vehicles/honda-civic/honda-civic-1-2100x1386.jpg",
+        "Booking_Status": "Available",
+        "id": 9
+      },
+      {
+        "id": 10,
+        "Type": "Fit",
+        "Brand": "Honda",
+        "Model": "2019",
+        "Fuel": "Petrol",
+        "Seats": "5",
+        "Price": "1800",
+        "Description": "The Honda Fit is a subcompact car features a compact and modern design with a relatively tall roofline, offering ample headroom and a spacious feel inside. It usually has a sleek and aerodynamic appearance with smooth lines and contemporary styling elements ",
+        "Img": "https://c4.wallpaperflare.com/wallpaper/475/627/675/2014-honda-jazz-prototype-wallpaper-preview.jpg",
+        "Booking_Status": "Available"
+      },
+      {
+        "Type": "Outback",
+        "Brand": "Subaru",
+        "Model": "2019",
+        "Fuel": "Petrol",
+        "Seats": "5",
+        "Price": "2000",
+        "Description": "The Subaru Outback is a popular midsize crossover SUV.  features a rugged and athletic design, combining SUV characteristics with wagon-like elements. It has a distinct profile, with a slightly raised ride height, black body cladding along the lower edges, and a roof rack for added practicality. The raised ground clearance allows the Outback to handle rough terrain and unpaved roads more effectively hence making it good for safaris",
+        "Img": "https://w0.peakpx.com/wallpaper/987/420/HD-wallpaper-subaru-subaru-legacy-outback-limited-ex-suv.jpg",
+        "Booking_Status": "Available",
+        "id": 11
+      },
+      {
+        "Type": "Corolla",
+        "Brand": "Mazda",
+        "Model": "2019",
+        "Fuel": "Petrol",
+        "Seats": "5",
+        "Price": "1500",
+        "Description": "he Mazda Carol typically features a compact and cute design. It is designed to be practical for city driving and navigating narrow streets. The interior of the Mazda Carol is designed to maximize space within the compact dimensions. While the cabin might be cozy, it usually offers comfortable seating for the driver and passengers. ",
+        "Img": "https://newsroom.mazda.com/en/cars/1092/carol.jpg",
+        "Booking_Status": "Available",
+        "id": 16
+      }
+    ]
+  }
